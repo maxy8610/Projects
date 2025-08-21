@@ -1,0 +1,25 @@
+<html> 
+<head> 
+ <title>Self Analysis Report</title> <style> 
+body{ fontfamily: Arial, sans-serif; 
+margin: 15px; 
+ } 
+ h1{ 
+ text-align: center; 
+ } 
+ .Strengths, .Weakness, .Oppurtunities, .Targets{ marginbottom: 
+20px; 
+ } 
+ .section-title{ 
+fontsize: 22px; fontweight: 
+bold; 
+marginbottom: 15px; 
+ } 
+ .list-item{ 
+ margin-bottom: 15px; 
+ } 
+ </style> 
+ </head> 
+ <body style="background-color: skyblue;"> 
+ <h1><u>Aanandha Krishnan’s Self Analysis Report</u></h1> 
+ <div class="Strengths">
