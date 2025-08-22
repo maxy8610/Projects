@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+<body> <style> table, th, td { border:2px solid black; border-collapse: collapse;
+}
+</style>
+<h2 align="center">Aanandha Krishnan.V/23247005</h2>
+<table align="center" bgcolor="skyblue">
+<tr style="height:10px"bgcolor="navyblue">
+<th >DAY/HOUR</th>
+<th>HR1</th>
+<th>HR2</th>
+<th style="padding: 25px;"></th>
+<th>HR3</th>
+<th>HR4</th>
+<th style=" padding: 25px;"></th>
+<th>HR5</th>
+<th>HR6</th>
+</tr>
+<tr align="center">
+<td>Monday</td>
+<td>S1</td>
+<td>S2</td>
+<td rowspan="5">BREAK</td>
+<td>S3</td>
+<td>S4</td>
+<td rowspan="5">LUNCH</td>
+<td>S5</td>
+<td>S6</td>
+</tr>
+<tr align="center">
+<td>Tuesday</td>
+<td>S2</td>
+<td>S3</td>
+<td>S4</td>
+<td>S5</td>
+<td colspan="2">S6</td>
+</tr>
+<tr align="center">
+<td>Wednesday</td>
+<td>S4</td>
+<td>S6</td>
+<td>S2</td>
+<td>S3</td>
+<td>S6</td>
+<td>S6</td>
+</tr>
+<tr align="center">
+<td>Thursday</td>
+<td>S5</td>
+<td>S4</td>
+<td>S6</td>
+<td>S6</td>
+<td>S2</td>
+<td>S3</td>
+</tr>
+<tr align="center">
+<td>Friday</td>
+<td>S6</td>
+<td>S6</td>
+<td>S2</td>
+<td>S4</td>
+<td>S3</td>
+<td>S5</td>
+</tr>
+</table>
+</body>
+</html>
